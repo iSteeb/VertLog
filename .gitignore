@@ -1,0 +1,7 @@
+.DS_Store
+processed
+collection.csv
+config.py
+.venv
+__pycache__
+poetry.lock
