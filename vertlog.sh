@@ -1,0 +1,1 @@
+cd ~/Developer/vertlog && poetry run python main.py
